@@ -4,4 +4,4 @@ mkdocs-macros-plugin~=1.2.0
 mkdocs-material~=9.5.18
 mkdocs-minify-plugin~=0.7.1
 mkdocs-redirects~=1.2.1
-pillow~=10.1.0
+pillow~=11.0.0
